@@ -32,7 +32,7 @@ sh './mvnw clean test'
 
 }
 
-tage('Check Style') {
+stage('Check Style') {
 
 steps {
 
