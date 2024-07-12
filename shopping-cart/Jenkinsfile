@@ -2,7 +2,7 @@ peline {
 
 agent { node { label 'maven' } }
 
-environment { APP_NAMESPACE = hcitvx-security-scans' }
+environment { APP_NAMESPACE = 'hcitvx-security-scans' }
 
 stages {
 
